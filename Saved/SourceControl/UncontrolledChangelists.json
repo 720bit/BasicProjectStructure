@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/UE_5.3/Engine/UE_5.3/Templates/TP_Basic/Content/AT3n3/Levels/MainLevel.umap",
+				"C:/Users/PC/Desktop/TP_AEC_Basic_5.3/Content/AT3n3/Materials/Functions/MF_PBR_UnPacked.uasset",
+				"C:/Users/PC/Desktop/TP_AEC_Basic_5.3/Content/AT3n3/Materials/Instances/MI_Base_UnPackedPBR.uasset",
+				"C:/Users/PC/Desktop/TP_AEC_Basic_5.3/Content/AT3n3/Materials/Masters/M_Base_UnPackedPBR.uasset",
+				"C:/Users/PC/Desktop/TP_AEC_Basic_5.3/Content/AT3n3/Materials/Masters/M_Base_PackedPBR.uasset",
+				"C:/Users/PC/Desktop/TP_AEC_Basic_5.3/Content/AT3n3/Levels/MainLevel.umap",
+				"C:/Program Files/Epic Games/UE_5.3/Templates/TP_AEC_Basic/Content/AT3n3/Levels/MainLevel.umap"
+			]
+		}
+	]
+}

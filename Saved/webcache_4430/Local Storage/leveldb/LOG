@@ -1,2 +1,3 @@
-2026/07/24-14:56:09.833 2ad28 Creating DB C:/Users/MichaelRyzen9/Desktop/GameDev/GameStructure/Prototype/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/07/24-14:56:09.839 2ad28 Reusing MANIFEST C:/Users/MichaelRyzen9/Desktop/GameDev/GameStructure/Prototype/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/07/24-15:01:33.036 27f0c Reusing MANIFEST C:/Users/MichaelRyzen9/Desktop/GameDev/GameStructure/Prototype/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/07/24-15:01:33.036 27f0c Recovering log #3
+2026/07/24-15:01:33.037 27f0c Reusing old log C:/Users/MichaelRyzen9/Desktop/GameDev/GameStructure/Prototype/Saved/webcache_4430\Local Storage\leveldb/000003.log 
